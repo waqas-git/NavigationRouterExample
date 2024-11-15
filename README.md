@@ -54,6 +54,24 @@ NavigationRouterExample/
 └── Assets.xcassets             // Folder for managing image and color assets used in the app
 ```
 
+## Prerequisites
+- **iOS Version:** The project targets iOS 14 and above.
+- **Swift Version:** Requires Swift 5.0 or later.
+- **Xcode Version:** Developed and tested with Xcode 14 or later.
+
+## Skills:
+
+- Basic knowledge of **Swift** and **SwiftUI**.
+- Understanding of **MVVM architecture** and **state management**.
+- Familiarity with navigation concepts in **SwiftUI**.
+
+### Getting Started
+## Clone the Repository
+
+```bash
+git clone [https://github.com/waqas-git/NavigationRouterExample.git]
+cd NavigationRouterExample
+```
 
 
 ## Future Enhancements
@@ -69,13 +87,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 
 
-## Prerequisites
-- **iOS Version:** The project targets iOS 16 and above.
-- **Swift Version:** Requires Swift 5.0 or later.
-- **Xcode Version:** Developed and tested with Xcode 14 or later.
 
-
-## Clone the Repository
-
-```bash
-git clone [https://github.com/waqas-git/NavigationRouterExample.git]
