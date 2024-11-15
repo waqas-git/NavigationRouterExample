@@ -23,10 +23,8 @@ Router Pattern for navigation in SwiftUI. It supports backward compatibility for
 - Fully compatible with iOS 14 and later.
 
 
-## Project Structure
-The project follows an **MVVM architecture** with a dedicated **Router** for navigation:
-
 # Project Structure
+The project follows an **MVVM architecture** with a dedicated **Router** for navigation:
 
 ```plaintext
 NavigationRouterExample/
