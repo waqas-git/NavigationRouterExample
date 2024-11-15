@@ -52,18 +52,16 @@ NavigationRouterExample/
 │   ├── NavigationRouter.swift  // Main router responsible for handling navigation and managing selected routes
 │   └── ViewModel.swift         // General ViewModel managing app data and business logic
 └── Assets.xcassets             // Folder for managing image and color assets used in the app
-'''
+```
 
 
-
-
-### Prerequisites
+## Prerequisites
 - **iOS Version:** The project targets iOS 16 and above.
 - **Swift Version:** Requires Swift 5.0 or later.
 - **Xcode Version:** Developed and tested with Xcode 14 or later.
 
 
-### Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone [https://github.com/waqas-git/NavigationRouterExample.git]
