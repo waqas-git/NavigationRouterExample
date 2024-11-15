@@ -4,7 +4,8 @@ This repository demonstrates an **MVVM** (Model-View-ViewModel) architecture com
 Router Pattern for navigation in SwiftUI. It supports backward compatibility for iOS 
 14-15 using NavigationView and utilizes NavigationStack for iOS 16+.
 
-##Key Features
+## Key Features
+
 **MVVM Architecture:** Ensures a clean separation of concerns between UI, business logic, and data handling.
 
 **Router Pattern:**
