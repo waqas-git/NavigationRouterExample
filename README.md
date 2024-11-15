@@ -55,6 +55,20 @@ NavigationRouterExample/
 ```
 
 
+
+## Future Enhancements
+
+**Add deep-linking support.**
+
+- Include more advanced use cases like modal navigation or tabbed navigation.
+- Implement unit tests for router and ViewModels.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests or raise issues.
+
+
+
 ## Prerequisites
 - **iOS Version:** The project targets iOS 16 and above.
 - **Swift Version:** Requires Swift 5.0 or later.
