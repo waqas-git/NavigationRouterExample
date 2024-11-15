@@ -70,6 +70,19 @@ NavigationRouterExample/
 git clone [https://github.com/waqas-git/NavigationRouterExample.git]
 cd NavigationRouterExample
 ```
+## How It Works
+### 1. Router Pattern
+
+The **Router Pattern** manages navigation using the AppRouter and AppRoute:
+- AppRoute: Enum defining all possible destinations.
+
+```swift
+enum AppRoute : Hashable{
+    case home
+    case detail(itemId: Int)
+    case settings
+}
+```
 
 
 ## Future Enhancements
