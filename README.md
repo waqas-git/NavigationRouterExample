@@ -1,4 +1,4 @@
-### MVVM with Router Pattern for Navigation in SwiftUI
+# MVVM with Router Pattern for Navigation in SwiftUI
 
 This repository demonstrates an **MVVM** (Model-View-ViewModel) architecture combined with a 
 Router Pattern for navigation in SwiftUI. It supports backward compatibility for iOS 
@@ -65,8 +65,8 @@ NavigationRouterExample/
 - Understanding of **MVVM architecture** and **state management**.
 - Familiarity with navigation concepts in **SwiftUI**.
 
-### Getting Started
-## Clone the Repository
+## Getting Started
+### Clone the Repository
 
 ```bash
 git clone [https://github.com/waqas-git/NavigationRouterExample.git]
