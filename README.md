@@ -26,6 +26,8 @@ Router Pattern for navigation in SwiftUI. It supports backward compatibility for
 ## Project Structure
 The project follows an **MVVM architecture** with a dedicated **Router** for navigation:
 
+## Project Structure
+
 NavigationRouterExample/
 ├── Models/
 │   ├── AppRoute.swift
