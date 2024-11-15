@@ -83,6 +83,19 @@ enum AppRoute : Hashable{
     case settings
 }
 ```
+### 2. MVVM Architecture
+
+Each screen in the app has its own ViewModel, separating UI from business logic and improving code reusability.
+
+
+## 3. Custom Navigation Bar
+
+Customizable navigation bar using CustomNavBarModifier. Example usage:
+```swift
+.customNavBar(title: "Details") {
+            router.pop()
+        }
+```
 
 
 ## Future Enhancements
